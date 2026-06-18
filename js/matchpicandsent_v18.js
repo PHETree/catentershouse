@@ -1081,7 +1081,7 @@
 	// load the tilesheet  
 	var image = new Image();
 	image.addEventListener("load", loadHandler, false);
-	image.src = "../imgs/tilesheets/tilesheet11.png";
+	image.src = "./imgs/tilesheets/tilesheet11.png";
 	assetsToLoad.push(image);
 
 	// Store finger's pos  
