@@ -1,0 +1,7 @@
+.sharper-image {
+  image-rendering: crisp-edges;
+  /* Vendor prefixes may be needed for broader compatibility */
+  image-rendering: -webkit-optimize-contrast; 
+}
+
+ 
